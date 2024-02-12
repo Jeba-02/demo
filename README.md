@@ -1,2 +1,2 @@
-# demo
-author-jeba
+#demo
+this is my first git
